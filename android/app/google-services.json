@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "251530912681",
+    "firebase_url": "https://khobidi-trace.firebaseio.com",
+    "project_id": "khobidi-trace",
+    "storage_bucket": "khobidi-trace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251530912681:android:5d6a994e38fc3305b95ab8",
+        "android_client_info": {
+          "package_name": "com.tuvatech.khobidi_race"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251530912681-b2ftihir557ug07ao3i29dt6rroceq8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuvatech.khobidi_race",
+            "certificate_hash": "c7976846317096c4b54bb2c94014b038835f5d65"
+          }
+        },
+        {
+          "client_id": "251530912681-j9ec89blr5p3jtvh69ojsss0g2fsjkf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWid3rcj3tqUb7IjmFc_gNaYBn3v8_Pog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251530912681-j9ec89blr5p3jtvh69ojsss0g2fsjkf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
